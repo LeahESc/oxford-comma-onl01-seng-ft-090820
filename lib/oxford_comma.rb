@@ -1,4 +1,4 @@
 def oxford_comma(array)
   joined = array.join (,)
-  puts joined.pop
+  puts joined << " and apple"
 end
