@@ -1,4 +1,4 @@
 def oxford_comma(array)
-  joined = array.join (", ")
-  joined.pop
+  arr_one = []
+  array.shift
 end
