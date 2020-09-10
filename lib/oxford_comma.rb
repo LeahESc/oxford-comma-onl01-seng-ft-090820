@@ -12,6 +12,5 @@ end
 
 def oxford_comma(array)
     if length >= 3
-    
   end
 end
