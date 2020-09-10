@@ -1,5 +1,5 @@
 def oxford_comma(array)
   arr_one = []
-  array_one << array[0]
-  puts array_one
+  arr_one << array[0]
+  puts arr_one
 end
