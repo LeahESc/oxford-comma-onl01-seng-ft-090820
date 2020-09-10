@@ -1,7 +1,5 @@
 def oxford_comma(array)
-  if length = 1 
-    return array[0]
-    elsif length = 2 
-    return array.join (" and ")
-  end
-end
+ 
+default_words_connector     = ", "
+    default_two_words_connector = " and "
+    default_last_word_connector = ", and "
