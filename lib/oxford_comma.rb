@@ -7,6 +7,6 @@ def oxford_comma(array)
 end
 
 ef oxford_comma(array)
-  arr = array[-1] 
-  arr.join(", ")
+  arr.join(", ")arr = array[-1] 
+  
 end
